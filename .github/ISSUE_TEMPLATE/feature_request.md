@@ -7,5 +7,4 @@ assignees: ''
 
 ---
 
-Required:
-Mod name.
+Mod name:

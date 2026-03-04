@@ -7,6 +7,5 @@ assignees: ''
 
 ---
 
-Required:
-Mod name.
-Mod, game and loader versions
+Mod name:
+Mod, game and loader versions:
